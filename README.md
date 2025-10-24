@@ -41,7 +41,7 @@ Using the **Wine Quality Dataset** from the UCI Machine Learning Repository, the
 </p>
 
 <p align="center">
-  <em>Figure: Random Forest regression performance — mean squared error decreases as the number of trees increases, illustrating model optimization.</em>
+  <em>Figure: Random Forest regression performance — mean squared error rapidly decreases with more trees before leveling off, indicating optimal performance is reached around 100–200 trees</em>
 </p>
 ---
 
