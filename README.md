@@ -52,7 +52,7 @@ Using the **Wine Quality Dataset** from the UCI Machine Learning Repository, the
 | Visualization | matplotlib · seaborn |
 | Modeling | scikit-learn (RandomForest, LinearRegression) |
 | Statistics | scipy · statsmodels |
-| Environment | Jupyter Notebook / Python 3.9+ |
+| Environment | Jupyter Notebook / Python 3.12+ |
 
 ---
 
